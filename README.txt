@@ -1,2 +1,3 @@
 contenu initial
-Nouveau texte rajouté après le commit
+Texte rajouté après le commit
+Nouvelles fonctionnalités
